@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "empado", "empado\empado.csproj", "{1683166A-DB64-4EEC-95DA-834B792457B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adoeg1", "adoeg1\adoeg1.csproj", "{A3E45B2A-E3B3-4C68-894F-5E41FB8423C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1683166A-DB64-4EEC-95DA-834B792457B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1683166A-DB64-4EEC-95DA-834B792457B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1683166A-DB64-4EEC-95DA-834B792457B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1683166A-DB64-4EEC-95DA-834B792457B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E45B2A-E3B3-4C68-894F-5E41FB8423C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E45B2A-E3B3-4C68-894F-5E41FB8423C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E45B2A-E3B3-4C68-894F-5E41FB8423C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E45B2A-E3B3-4C68-894F-5E41FB8423C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00862BC9-0547-447B-B883-D12F23715C32}
+	EndGlobalSection
+EndGlobal
